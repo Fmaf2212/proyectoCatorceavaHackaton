@@ -1,19 +1,19 @@
-# semanacatorce
+● ¿Por qué utilizar un framework? 
 
-## Project setup
-```
-npm install
-```
+Gracias a los frameworks tendremos más posibilidades de crear proyectos estructurados y legibles bajo ciertos patrones.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+● ¿Cuáles son los beneficios de usar un Framework? 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+-Estructura y organización del código predeterminada.
+-Reutilización del código. Evitar duplicidad de código.
+-Agilidad y rapidez en el desarrollo.
+-Menor coste en el desarrollo.
+-Buenas prácticas de desarrollo con el uso de patrones.
+-Minimizar errores y mayor facilidad para solucionarlos.
+-Facilidad a la hora de encontrar una librería o código que ya cubra funcionalidades de tu desarrollo.
+-Facilita la colaboración con otros desarrolladores.
+-Facilita el mantenimiento.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+● ¿Cuáles son los problemas de no usar un Framework? 
+
+Tendencias a error, código spaghetti, no uso de patrones.
